@@ -30,8 +30,8 @@ defaults:
     type: projects
   values:
     layout: project
-    categories:
-    tags:
+    categories: 
+    tags: 
     credits:
       writer: 
       producer: 
