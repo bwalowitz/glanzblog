@@ -1,7 +1,6 @@
 ---
 title: New Project
 date: 2019-01-06 04:46:00 Z
-published: false
 categories:
 - Development
 - Production
