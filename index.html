@@ -1,0 +1,40 @@
+---
+title: Home
+layout: default
+---
+
+<h1>{{ site.title }}</h1>
+
+<h2>Projects</h2>
+
+<div class="flex">
+{% for project in site.projects %}
+<a href="{{ project.url }}">   
+    <!-- <img class="project-index" src="{{ project.poster }}">
+    <h2>{{ project.title }}</h2> -->
+    <div class="project-square" style="background-image: url({{ project.poster }});">
+        <h2>{{ project.title }}</h2>
+    </div>
+</a>
+{% endfor %}
+</div>
+
+<h2>News</h2>
+
+{% for post in site.posts %}
+<a class="nodec" href="{{ post.url }}" target="_blank">
+<article class="news-item">
+    <div class="news-image">
+        <img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}">
+    </div>
+    <div class="news-info">
+        <h3>{{ post.date | date: '%B %d, %Y' }}</h3>
+        <h3>{{ post.publication }}</h3>
+        <h2>{{ post.title }}</h2>
+        <p class="nodec">{{ post.excerpt }}</p>
+        <p class="read-more">Read more<img class="chevron" src="/assets/images/white-chevron.svg"></p>
+    </div>
+   
+</article>
+</a>
+{% endfor %}
