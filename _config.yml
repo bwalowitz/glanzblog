@@ -30,8 +30,8 @@ defaults:
 email: bwalowitz@gmail.com
 description: Glanzrock Productions is a film and television company, led by Andrew
   Davies Gans, that develops, produces, and finances projects at all stages of development.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: brandonwalowitz
 github_username: bwalowitz
 markdown: kramdown
