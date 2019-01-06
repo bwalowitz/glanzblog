@@ -189,6 +189,9 @@ div.circle {
 }
 
 .project-square h2 {
+    margin-top: 100px;
+    padding: 50px;
+    text-align: center;
     opacity: 0;
     text-transform: uppercase;
     transition: opacity 200ms ease-in;
@@ -196,4 +199,24 @@ div.circle {
 
 .project-square h2:hover {
     opacity: 1;
+}
+
+div.post {
+    p {
+        max-width: 500px;
+    }
+
+    img {
+        max-width: 500px;
+    }
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    div {
+        margin-top: 2rem;
+    }
 }

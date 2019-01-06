@@ -7,16 +7,17 @@ layout: default
 
 <h2>Projects</h2>
 
+<div class="flex">
 {% for project in site.projects %}
 <a href="{{ project.url }}">   
-    <img class="project-index" src="{{ project.poster }}">
-    <h2>{{ project.title }}</h2>
+    <!-- <img class="project-index" src="{{ project.poster }}">
+    <h2>{{ project.title }}</h2> -->
     <div class="project-square" style="background-image: url({{ project.poster }});">
         <h2>{{ project.title }}</h2>
     </div>
 </a>
 {% endfor %}
-
+</div>
 
 <h2>News</h2>
 
