@@ -9,9 +9,6 @@ tags:
 - Film
 - Comic
 - TV
-is_Development: true
-is_Production: true
-is_Released: true
 Credits:
   Writer: 
   Producer: 
