@@ -1,6 +1,6 @@
 ---
 title: text
-permalink: "/text"
+permalink: "/text/"
 layout: default
 ---
 
