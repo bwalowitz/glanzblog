@@ -38,12 +38,12 @@ defaults:
     - Film
     - Comic
     - TV
-    Credits:
-      Writer: 
-      Producer: 
-      Director: 
-    Main Image: "/uploads/stock-vector-two-vector-landscapes-with-silhouettes-of-forest-and-distant-mountain-ridges-illustration-of-632040476.jpg"
-    Images:
+    credits:
+      writer: 
+      producer: 
+      director: 
+    image: "/uploads/stock-vector-two-vector-landscapes-with-silhouettes-of-forest-and-distant-mountain-ridges-illustration-of-632040476.jpg"
+    images:
     - 
     - 
 email: bwalowitz@gmail.com

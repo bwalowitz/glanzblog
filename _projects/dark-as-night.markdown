@@ -1,10 +1,12 @@
 ---
 title: Dark As Night
 date: 2019-01-06 03:19:00 Z
+tag:
+- film
 categories:
-- Film
+- production
 status: Released
-poster: "/uploads/dark-as-night-book-cover.jpg"
+image: "/uploads/dark-as-night-book-cover.jpg"
 ---
 
 <p>A severe economic crash due to inadequate policies, partisan warfare, corporate overreach and automation has split the United States into the haves and have-nots. Large homeless camps are forming across the nation guarded by the Orwellian police state. When a child turns up dead in, TENT CITY, the largest homeless camp in the United States, the community’s local “Sherriff”, becomes the unlikely detective fighting to solve the crime.</p>

@@ -4,9 +4,10 @@ layout: default
 
 <div class="project-page flex">
 <div class="project-metadata">
-        <img src="{{ page.poster }}" class="project-poster">
+        <img src="{{ page.image }}" class="project-poster">
+
+<h4>{{ page.tags }}</h4>
 <h4>{{ page.categories }}</h4>
-<h4>{{ page.status }}</h4>
 </div>
 
 <div class="project-main">
@@ -14,6 +15,18 @@ layout: default
 <h2>{{ page.title }}</h2>
 
 
+
 {{ content }}
+
+<h4>Credits</h4>
+{% if page.credits.writer %}
+<p>{{ page.credits.writer | prepend: 'Written by ' }}</p>
+{% endif %}
+{% if page.credits.director %}
+<p>{{ page.credits.director | prepend: 'Directed by ' }}</p>
+{% endif %}
+{% if page.credits.producer %}
+<p>{{ page.credits.producer | prepend: 'Produced by ' }}</p>
+{% endif %}
 </div>
 </div>

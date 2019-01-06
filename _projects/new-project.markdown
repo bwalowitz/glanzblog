@@ -1,20 +1,14 @@
 ---
 title: New Project
 date: 2019-01-06 04:46:00 Z
-categories:
-- Development
-- Production
-- Released
-tags:
-- Film
-- Comic
-- TV
-Credits:
-  Writer: 
-  Producer: 
-  Director: 
-Main Image: "/uploads/stock-vector-two-vector-landscapes-with-silhouettes-of-forest-and-distant-mountain-ridges-illustration-of-632040476.jpg"
-Images:
+categories: released
+tags: film
+credits:
+  writer: Brandon Walowitz
+  producer: 
+  director: 
+image: "/uploads/stock-vector-two-vector-landscapes-with-silhouettes-of-forest-and-distant-mountain-ridges-illustration-of-632040476.jpg"
+images:
 - 
 - 
 ---
