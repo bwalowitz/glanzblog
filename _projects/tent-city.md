@@ -2,7 +2,8 @@
 title: Tent City
 categories:
 - Film & Comic
-tags: here
+tags:
+- here
 image: "/assets/images/TentCity-Poster.png"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Dark As Night
 date: 2019-01-06 03:19:00 Z
-tag:
-- film
 categories:
 - production
+tags:
+- film
 status: Released
 image: "/uploads/dark-as-night-book-cover.jpg"
 ---
