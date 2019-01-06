@@ -1,6 +1,7 @@
 ---
 title: New Project
 date: 2019-01-06 04:46:00 Z
+published: false
 categories:
 - Development
 - Production
@@ -15,6 +16,7 @@ Credits:
   Director: 
 Main Image: "/uploads/stock-vector-two-vector-landscapes-with-silhouettes-of-forest-and-distant-mountain-ridges-illustration-of-632040476.jpg"
 Images:
+- 
 - 
 ---
 
