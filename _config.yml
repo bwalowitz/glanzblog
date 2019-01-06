@@ -30,19 +30,23 @@ defaults:
     type: projects
   values:
     layout: project
-    status:
+    categories:
     - Development
     - Production
     - Released
-    is development: false
-    is production: false
-    is released: false
-    category: film
-    credits:
-    - 'writer: name'
-    - 'producer: name'
-    - 'director: name'
-    image: upload
+    tags:
+    - Film
+    - Comic
+    - TV
+    Credits:
+      Writer: 
+      Producer: 
+      Director: 
+    Main Image: "/uploads/stock-vector-two-vector-landscapes-with-silhouettes-of-forest-and-distant-mountain-ridges-illustration-of-632040476.jpg"
+    Images:
+    - 
+    - 
+   
 email: bwalowitz@gmail.com
 description: Glanzrock Productions is a film and television company, led by Andrew
   Davies Gans, that develops, produces, and finances projects at all stages of development.
