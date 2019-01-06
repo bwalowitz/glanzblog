@@ -9,6 +9,9 @@ collections:
   projects:
     title: Projects
     output: true
+    status:
+      in development: in development
+      released: released
   uploads:
     title: Uploads
     output: true    
