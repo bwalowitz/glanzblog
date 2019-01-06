@@ -6,6 +6,6 @@ excerpt: The Irish coming-of-age drama also stars 'The Witch' breakout actress, 
   Taylor-Joy.The Irish coming-of-age drama also stars 'The Witch' breakout actress,
   Anya Taylor-Joy.
 link: https://www.hollywoodreporter.com/news/here-are-young-men-ralph-ineson-susan-lynch-join-cast-1145987
-image: https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2018/09/ralph_ineson_and_susan_lynch_-getty-split-h_2018.jpg
+image: https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2019/01/gettyimages-161836964-h_2018.jpg
 ---
 
