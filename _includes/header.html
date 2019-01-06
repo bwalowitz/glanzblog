@@ -5,7 +5,7 @@
     
         <nav>
             {% for page in site.pages %}
-            <a href="/">{{ page.title}}</a>
+            <a href="{{ page.url }}">{{ page.title}}</a>
             {% endfor %}
         </nav>   
 </header>
