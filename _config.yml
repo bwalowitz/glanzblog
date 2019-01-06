@@ -1,7 +1,6 @@
 ---
 title: Glanzrock Productions
 timezone: UTC
- 
 collections:
   posts:
     title: Posts
@@ -14,8 +13,7 @@ collections:
       released: released
   uploads:
     title: Uploads
-    output: true    
-
+    output: true
 defaults:
 - scope:
     path: ''
