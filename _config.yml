@@ -31,13 +31,7 @@ defaults:
   values:
     layout: project
     categories:
-    - Development
-    - Production
-    - Released
     tags:
-    - Film
-    - Comic
-    - TV
     credits:
       writer: 
       producer: 
