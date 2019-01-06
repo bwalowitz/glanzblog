@@ -1,6 +1,7 @@
 ---
 title: Glanzrock Productions
 timezone: UTC
+ 
 collections:
   posts:
     title: Posts
@@ -10,7 +11,8 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
+    output: true    
+
 defaults:
 - scope:
     path: ''
@@ -26,7 +28,9 @@ defaults:
     path: ''
     type: projects
   values:
-    layout: project
+    layout: project 
+    status: ["Development", "Production", "Released"]
+
 email: bwalowitz@gmail.com
 description: Glanzrock Productions is a film and television company, led by Andrew
   Davies Gans, that develops, produces, and finances projects at all stages of development.
